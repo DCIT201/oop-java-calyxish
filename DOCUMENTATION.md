@@ -114,6 +114,7 @@ public void updateLocation(double latitude, double longitude) throws BoundaryVio
    ```sh
     mvn test
 **Test Coverage**
+- I wrote unit test for each Class that I created for in the project.
 - Rental cost calculations for different vehicle types.
 - Availability checks for vehicles.
 - Renting and returning vehicles.
